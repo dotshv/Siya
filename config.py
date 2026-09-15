@@ -22,7 +22,7 @@ class Config:
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
-        self.SUPPORT_CHANNEL = "https://t.me/link_ka_adda1"
+        self.SUPPORT_CHANNEL = "https://t.me/toxic_bots"
         self.SUPPORT_CHAT = "https://t.me/Techofy"
 
         self.AUTO_END: bool = getenv("AUTO_END", True)
