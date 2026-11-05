@@ -29,7 +29,7 @@ class Config:
         self.AUTO_LEAVE: bool = getenv("AUTO_LEAVE", False)
         self.VIDEO_PLAY: bool = getenv("VIDEO_PLAY", True)
         self.DEFAULT_THUMB = "https://ar-hosting.pages.dev/1770755014036.jpg"
-        self.COOKIE_URLS = getenv("COOKIE_URLS", "https://batbin.me/injuredness")
+        self.COOKIE_URLS = getenv("COOKIE_URLS", "https://batbin.me/iridaceous")
 
     def check(self):
         missing = [
